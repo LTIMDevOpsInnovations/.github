@@ -4,9 +4,5 @@
     "iconName": "example-icon",
     "categories": [
         "Automation"
-    ],
-    "filePatterns": [
-        "^Dockerfile",
-        ".*\\.md$"
     ]
 }
