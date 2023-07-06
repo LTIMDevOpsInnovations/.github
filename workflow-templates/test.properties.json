@@ -3,7 +3,7 @@
     "description": "Test starter workflow.",
     "iconName": "example-icon",
     "categories": [
-        "Test or Sample"
+        "Automation"
     ],
     "filePatterns": [
         "^Dockerfile",
